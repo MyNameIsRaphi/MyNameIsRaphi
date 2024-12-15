@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm currently in my apprenticeship at Swisscom as an ict specialist. After that I will attend the Zurich University of Applied Sciences in Computer Science. My longterm goal is to become a software engineer. I could also imagine to work in Toronto 🇨🇦 or New York 🇺🇸
+I'm currently in my apprenticeship at Swisscom as an ict specialist. After that I will attend the Zurich University of Applied Sciences in Computer Science. My longterm goal is to become a software engineer.
 
 *   🌍  I'm based in Aarau, Switzerland
 *   ✉️  You can contact me at [raphaelkaeser05@gmail.com](mailto:raphaelkaeser05@gmail.com)
